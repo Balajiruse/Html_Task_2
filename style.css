@@ -1,0 +1,104 @@
+ 
+ *{
+margin: 0;
+padding: 0;
+ }
+ .intro
+  {
+    background-color: black ;
+    height: 50vh;
+    padding-top: 15vh;
+    margin-bottom: 4rem;
+
+  }
+  .intro h1{
+    font-size: 3.2rem;
+  }
+  .intro h4{
+    font-weight: lighter;
+  }
+.photo
+{
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+}
+.btn-group
+{
+  margin: 3rem auto;
+}
+.btn
+{
+  font-size: 0.8rem;
+  padding: 8px 16px ;
+  margin: 0 0.2rem;
+  margin-top: 30px;
+  
+}
+.qt
+{
+  background-color: black;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 6%;
+}
+hr{
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+  color: lightgray;
+}
+#container
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+
+}
+
+.awards-separator
+{
+  display: flex;
+  direction: row;
+ justify-content: center;
+}
+
+.award
+{
+  min-width: 250px;
+  border: 2px solid lightgray;
+  border-radius: 0.6rem;
+  margin: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.container1
+{
+  display: flex;
+  direction: row;
+  margin-left: 300px;
+}
+.art
+{
+  
+margin: 3rem;
+
+
+}
+
+.co
+{
+  margin-left: 250px;
+}
+footer
+{
+  
+  background-color:black;
+padding-top: 4rem;
+margin-top: 2rem;
+
+  
+}
+
